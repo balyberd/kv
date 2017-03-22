@@ -58,3 +58,7 @@ C:\Users\Администратор\Documents\Visual Studio 2015\Projects\_Work\
 C:\Users\Администратор\Documents\Visual Studio 2015\Projects\_Work\KV\KV\obj\Debug\KV.csprojResolveAssemblyReference.cache
 C:\Users\Администратор\Documents\Visual Studio 2015\Projects\_Work\KV\KV\obj\Debug\KV.dll
 C:\Users\Администратор\Documents\Visual Studio 2015\Projects\_Work\KV\KV\obj\Debug\KV.pdb
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\_Work\KV\KV\bin\EntityFramework.dll
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\_Work\KV\KV\bin\EntityFramework.SqlServer.dll
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\_Work\KV\KV\bin\EntityFramework.xml
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\_Work\KV\KV\bin\EntityFramework.SqlServer.xml
